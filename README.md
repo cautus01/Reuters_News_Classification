@@ -20,3 +20,8 @@
 - **Transformer는 직접 만든 코드가 케라스가 제공하는 멀티 헤드 어텐션보다 약 10배 빨랐다. 생각보다 데이터 양이 적고, 여러 레이어를 거치는 특성상 과적합이 높게 나왔다. 과적합 해결을 위해 Dropout 비율을 높이거나, L2 정규화, 여러 optimizer 사용 등을 시도했다.**
 
 - **CNN은 단순 CNN으로 진행한 결과는 정확도가 높지 않음을 확인하였다. 정확도를 올리기 위해 커널 사이즈, 데이터 크기 등을 조절하고 Dropout 비율 변경 등의 시도를 했으나 유의미한 결과를 얻지는 못했고, CNN과 LSTM 모델의 조합을 통해 더 높은 정확도를 얻을 수 있었다.**
+
+
+## 코드 및 역할
+
+[**LINK**](https://github.com/cautus01/Reuters_News_Classification/blob/main/Reuters%20News%20Classification.py) 참고
