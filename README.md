@@ -1,4 +1,4 @@
-# Reuters_News_Classification
+# 로이터 뉴스 분류하기 팀 프로젝트
 
 ## 프로젝트 개요
 
