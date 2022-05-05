@@ -21,6 +21,9 @@
 
 - **CNN은 단순 CNN으로 진행한 결과는 정확도가 높지 않음을 확인하였다. 정확도를 올리기 위해 커널 사이즈, 데이터 크기 등을 조절하고 Dropout 비율 변경 등의 시도를 했으나 유의미한 결과를 얻지는 못했고, CNN과 LSTM 모델의 조합을 통해 더 높은 정확도를 얻을 수 있었다.**
 
+![image](https://user-images.githubusercontent.com/69049801/166951006-6477d6d1-e8dc-423e-8192-50342ed010ca.png)
+
+
 ![image](https://user-images.githubusercontent.com/69049801/166950848-f2563eea-1c07-4854-bf45-cf7fb7114c5e.png)
 
 
